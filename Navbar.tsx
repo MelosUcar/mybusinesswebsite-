@@ -1,0 +1,1 @@
+export const Navbar = ({ setPage }: any) => <nav>Navbar</nav>;
